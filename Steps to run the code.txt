@@ -1,0 +1,1 @@
+Steps to run the code- Run make- Run ./logoutput- check for the logfile created
